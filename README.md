@@ -10,7 +10,6 @@
 <p align=center><a href="https://imgur.com/XJpcu1U"><img src="https://i.imgur.com/mTjyVAq.png" title="source: imgur.com"  /></a></p>
 
 
-<!--
 <div>
 cpp  
                                     void life(void)
@@ -25,7 +24,6 @@ cpp
 
 
 </div>
-!-->
 
 
 <div align=center>
