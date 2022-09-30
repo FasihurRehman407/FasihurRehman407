@@ -61,8 +61,3 @@ cpp
 <a href="https://instagram.com/dipankarpal5050/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dipankarpal5050" height="20" width="20" /></a>
 <a href="https://fb.com/deep.neon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="deep.neon" height="20" width="20" /></a>
 </p>
-
------
-Credits: [Dipankar Pal](https://github.com/deep5050)
-
-Last Edited on: 12/12/2020
